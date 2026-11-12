@@ -1,0 +1,6 @@
+{
+  "name": "Phân Tích Hiệu Quả Ưu Đãi Lãi Suất Vay",
+  "description": "Công cụ tính toán lợi ích tài chính giữa ngân hàng và khách hàng, phân tích tiền lãi tiết kiệm và chia sẻ lợi ích chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
